@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 83ad506f-3ce0-b896-97fb-e0d788577e99
 resourcetype: Document
 title: Lesson plan, Prototypes to Products, week 7
 uid: 7e422875-4ca1-8e14-86fd-36c84f7f1cb4

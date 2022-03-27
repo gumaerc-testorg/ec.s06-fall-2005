@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db879f2d-c8af-4c37-ecf4-3af94e24c59f
 resourcetype: Document
 title: 'Homework 6: Videotape Destruction'
 uid: 90913df0-5dbf-fde0-7438-52a6536f2000

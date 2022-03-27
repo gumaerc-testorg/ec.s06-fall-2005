@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 44ce41d0-1ddb-8764-1d87-e03569514946
 resourcetype: Document
 title: How would you allocate $1,000 among these projects?
 uid: a4d5676d-b864-77ab-9d7f-035a5cc91d2b

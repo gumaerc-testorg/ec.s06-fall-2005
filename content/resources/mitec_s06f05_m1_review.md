@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 44ce41d0-1ddb-8764-1d87-e03569514946
 resourcetype: Document
 title: MIT Design for Demining Mid-project Review Sheet
 uid: a619d60b-6f9e-2932-87fb-45b63b4b9621

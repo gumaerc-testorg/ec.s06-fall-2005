@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db879f2d-c8af-4c37-ecf4-3af94e24c59f
 resourcetype: Document
 title: 'Homework 1: Goals for Semester'
 uid: cd5f8c4f-ede3-c01c-375c-d76dcd488a38

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db879f2d-c8af-4c37-ecf4-3af94e24c59f
 resourcetype: Document
 title: 'Homework 5: Updated Gantt Chart, Funding'
 uid: 74b33760-e011-84c1-6833-85a5eeea6111

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db879f2d-c8af-4c37-ecf4-3af94e24c59f
 resourcetype: Document
 title: 'Homework 3: Detailed Schedule'
 uid: 72828908-683a-a7ed-e62b-2ff7612cdc28
