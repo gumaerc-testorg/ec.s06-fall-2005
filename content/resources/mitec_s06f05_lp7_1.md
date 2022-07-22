@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/ec-s06-prototypes-to-products-fall-2005/3687492a65e39e5c563fab5840ab0998_MITEC_S06F05_lp7_1.pdf
+file: /courses/ec-s06-prototypes-to-products-fall-2005/3687492a65e39e5c563fab5840ab0998_MITEC_S06F05_lp7_1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
