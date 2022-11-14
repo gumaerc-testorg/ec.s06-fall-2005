@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information regarding concept testing, design for
+  manufacturing, fund raising resources around MIT, and various links to external
+  resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
