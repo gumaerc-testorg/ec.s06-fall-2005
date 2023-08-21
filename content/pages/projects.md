@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information about mid-term review and final review.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -12,7 +13,7 @@ The student design projects are the primary focus of this course. Students give 
 M1 Review
 ---------
 
-Evaluation sheet ([PDF]({{< baseurl >}}/resources/mitec_s06f05_m1_review))
+Evaluation sheet ({{% resource_link a619d60b-6f9e-2932-87fb-45b63b4b9621 "PDF" %}})
 
 Reviewers:
 
@@ -25,9 +26,9 @@ Reviewers:
 M2 Review
 ---------
 
-How would you allocate $1,000 among these projects? ([PDF]({{< baseurl >}}/resources/mitec_s06f05_final_grants))
+How would you allocate $1,000 among these projects? ({{% resource_link a4d5676d-b864-77ab-9d7f-035a5cc91d2b "PDF" %}})
 
-Evaluation sheet ([PDF]({{< baseurl >}}/resources/mitec_s06f05_m2_review))
+Evaluation sheet ({{% resource_link 8d4bbf33-a734-9d3b-0cd0-c508ed6cb85f "PDF" %}})
 
 Reviewers:
 
@@ -97,7 +98,7 @@ Solar Water Disinfection (SoDis), by Alfinio Flores
 {{< tdopen >}}
 ([MP3 - 10 MB](http://www.archive.org/download/MITSP.724F05/Alfinio_Flores_12805.mp3))  
   
-Still Image of SoDis Bag ([JPEG]({{< baseurl >}}/resources/sodis))
+Still Image of SoDis Bag ({{% resource_link b0205385-aef4-090d-efba-721749c45b38 "JPEG" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

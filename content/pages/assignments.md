@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains homeworks to test students understanding of course
+  material.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ FILES
 Homework 1: Goals for Semester
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_s06f05_hw1))
+({{% resource_link cd5f8c4f-ede3-c01c-375c-d76dcd488a38 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +36,7 @@ Homework 1: Goals for Semester
 Homework 2: Gantt Chart
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_s06f05_hw2))
+({{% resource_link cebc7ee5-162a-efc7-0b78-73fb829f5806 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Homework 2: Gantt Chart
 Homework 3: Detailed Schedule
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_s06f05_hw3))
+({{% resource_link 72828908-683a-a7ed-e62b-2ff7612cdc28 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ Homework 3: Detailed Schedule
 Homework 4: Pugh Charts, Selection Matrices
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_s06f05_hw4))
+({{% resource_link 481d1b5b-65aa-d814-f465-773db54b1d6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ Homework 4: Pugh Charts, Selection Matrices
 Homework 5: Updated Gantt Chart, Funding
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_s06f05_hw5))
+({{% resource_link 74b33760-e011-84c1-6833-85a5eeea6111 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +72,7 @@ Homework 5: Updated Gantt Chart, Funding
 Homework 6: Videotape Destruction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_s06f05_hw6))
+({{% resource_link 90913df0-5dbf-fde0-7438-52a6536f2000 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Homework 6: Videotape Destruction
 Homework 7: Final Goals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_s06f05_hw7))
+({{% resource_link bb394efc-7336-84ce-86be-bc12151477c1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
