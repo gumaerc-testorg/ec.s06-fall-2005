@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information about class description, recommended
+  textbook, grading policy, group meetings and weekly updates, and intellectual property
+  policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
