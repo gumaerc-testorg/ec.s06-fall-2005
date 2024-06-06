@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about homework 1 which contains questions
   on project goals.
 file: /courses/ec-s06-prototypes-to-products-fall-2005/cd5f8c4fede3c01c375cd76dcd488a38_MITEC_S06F05_hw1.pdf
+file_size: 134889
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about homework 5 which contains links
   to external resources.
 file: /courses/ec-s06-prototypes-to-products-fall-2005/74b33760e01184c1683385a5eeea6111_MITEC_S06F05_hw5.pdf
+file_size: 141789
 file_type: application/pdf
 learning_resource_types:
 - Assignments

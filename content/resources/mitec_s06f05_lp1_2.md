@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about outline of lesson plan which
   contains props, handouts, logistics, activities, optional activity, and homework.
 file: /courses/ec-s06-prototypes-to-products-fall-2005/acefbd7b181b1f5bf7692e4ea2473d08_MITEC_S06F05_lp1_2.pdf
+file_size: 614724
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
