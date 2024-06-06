@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-s06-prototypes-to-products-fall-2005/39f78fe9fa21033c48962ed376949af2_MITEC_S06F05_lp9_1.pdf
+file_size: 142786
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

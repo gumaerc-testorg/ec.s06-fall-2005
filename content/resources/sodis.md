@@ -3,6 +3,7 @@ content_type: resource
 description: Appropriate technology solutions to pressing needs, such as this plastic
   bag for solar water disinfection, are developed and refined in this course.
 file: /courses/ec-s06-prototypes-to-products-fall-2005/b0205385aef4090defba721749c45b38_sodis.jpg
+file_size: 36853
 file_type: image/jpeg
 image_metadata:
   caption: ''
