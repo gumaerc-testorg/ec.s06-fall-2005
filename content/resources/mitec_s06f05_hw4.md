@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about Homework 4 which contains Financial
   Risk Tolerance, Lifestyle, Values, and Impact and Control.
 file: /courses/ec-s06-prototypes-to-products-fall-2005/481d1b5b65aad814f465773db54b1d6d_MITEC_S06F05_hw4.pdf
+file_size: 618642
 file_type: application/pdf
 learning_resource_types:
 - Assignments

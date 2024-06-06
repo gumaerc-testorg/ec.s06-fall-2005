@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about homework 3 which contains three
   week schedule.
 file: /courses/ec-s06-prototypes-to-products-fall-2005/72828908683aa7ede62b2ff7612cdc28_MITEC_S06F05_hw3.pdf
+file_size: 136230
 file_type: application/pdf
 learning_resource_types:
 - Assignments

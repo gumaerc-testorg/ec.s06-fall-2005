@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about homework 7 which contains final
   objectives.
 file: /courses/ec-s06-prototypes-to-products-fall-2005/bb394efc733684ce86bebc12151477c1_MITEC_S06F05_hw7.pdf
+file_size: 160714
 file_type: application/pdf
 learning_resource_types:
 - Assignments
