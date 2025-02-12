@@ -11,7 +11,7 @@ uid: 225bd3ae-c3f3-54e1-49c8-91a9e206586f
 ---
 The following resources are consulted during class lectures.
 
-[Lecture notes from *15.783J Product Design and Development*](https://ocw-studio.odl.mit.edu/courses/15-783j-product-design-and-development-spring-2006/pages/lecture-notes)
+[Lecture notes from *15.783J Product Design and Development*](https://ocw.mit.edu/courses/15-783j-product-design-and-development-spring-2006/pages/lecture-notes/)
 
 ## Fundraising Resources Around MIT
 
