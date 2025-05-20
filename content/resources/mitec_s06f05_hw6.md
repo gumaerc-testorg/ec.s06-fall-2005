@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource provides information about homework 6: Videotape Destruction.'
-file: /ol-ocw-studio-app/courses/ec-s06-prototypes-to-products-fall-2005/90913df05dbffde0743852a6536f2000_MITEC_S06F05_hw6.pdf
+file: /courses/ec-s06-prototypes-to-products-fall-2005/90913df05dbffde0743852a6536f2000_MITEC_S06F05_hw6.pdf
 file_size: 127728
 file_type: application/pdf
 learning_resource_types:

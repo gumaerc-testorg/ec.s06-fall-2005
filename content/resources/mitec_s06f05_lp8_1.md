@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about outline of lesson plan which
   contains props, handouts, logistics, activities, optional activity, and homework.
-file: /ol-ocw-studio-app/courses/ec-s06-prototypes-to-products-fall-2005/5b6f61f0e217fd062af8f4b637064d26_MITEC_S06F05_lp8_1.pdf
+file: /courses/ec-s06-prototypes-to-products-fall-2005/5b6f61f0e217fd062af8f4b637064d26_MITEC_S06F05_lp8_1.pdf
 file_size: 162033
 file_type: application/pdf
 learning_resource_types:
