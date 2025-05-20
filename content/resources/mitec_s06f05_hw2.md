@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about project planning and link to
   download gantt chart.
-file: /ol-ocw-studio-app/courses/ec-s06-prototypes-to-products-fall-2005/cebc7ee5162aefc70b7873fb829f5806_MITEC_S06F05_hw2.pdf
+file: /courses/ec-s06-prototypes-to-products-fall-2005/cebc7ee5162aefc70b7873fb829f5806_MITEC_S06F05_hw2.pdf
 file_size: 148146
 file_type: application/pdf
 learning_resource_types:
