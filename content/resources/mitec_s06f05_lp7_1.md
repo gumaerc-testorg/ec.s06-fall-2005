@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-s06-prototypes-to-products-fall-2005/3687492a65e39e5c563fab5840ab0998_MITEC_S06F05_lp7_1.pdf
+file: /ol-ocw-studio-app/courses/ec-s06-prototypes-to-products-fall-2005/3687492a65e39e5c563fab5840ab0998_MITEC_S06F05_lp7_1.pdf
 file_size: 147940
 file_type: application/pdf
 learning_resource_types:
