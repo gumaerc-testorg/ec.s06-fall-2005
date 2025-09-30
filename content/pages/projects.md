@@ -72,7 +72,7 @@ Introduction by Andrew Heafitz
 _not available_
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 24 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Intro_Heafitz-12dec05-220k.mp4))
+({{% resource_link "830d8242-b04b-472d-bcbe-66543b087a21" "MP4 - 24 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,10 +81,10 @@ _not available_
 Internet Kiosks, by Nupur Garg
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 110 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Garg-01nov05-220k.mp4))
+({{% resource_link "2e971b24-2777-4bf7-96e5-f4e55f6f6740" "MP4 - 110 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 150 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Garg-08dec05-220k.mp4))
+({{% resource_link "61544bdb-2fd9-4788-9835-b5813e7078e8" "MP4 - 150 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,10 +93,10 @@ Internet Kiosks, by Nupur Garg
 Solar Water Disinfection (SoDis), by Alfinio Flores
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 113 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Flores-01nov05-220k.mp4))
+({{% resource_link "e4efc531-05d4-406a-b75d-0b855010117e" "MP4 - 113 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([MP3 - 10 MB](http://www.archive.org/download/MITSP.724F05/Alfinio_Flores_12805.mp3))  
+({{% resource_link "e1148fb3-aefa-4a06-bbab-1ea8335c15f9" "MP3 - 10 MB" %}})  
   
 Still Image of SoDis Bag ({{% resource_link b0205385-aef4-090d-efba-721749c45b38 "JPEG" %}})
 {{< tdclose >}}
